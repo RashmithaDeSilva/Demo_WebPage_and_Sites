@@ -4,6 +4,6 @@
   * HTML 
   * CSS 
   * JS
-  -> Bootstrap
-  -> Semantic UI
-  -> Tailwind css
+  * Bootstrap
+  * Semantic UI
+  * Tailwind css
