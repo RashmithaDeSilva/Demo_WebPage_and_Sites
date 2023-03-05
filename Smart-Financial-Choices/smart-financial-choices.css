@@ -1,0 +1,116 @@
+/* .top{
+    display: flex;
+    height: 280px;
+    background-color: rgb(21, 161, 154);
+}
+.image{
+    height: 590px;
+    background-image: url(https://www.bergerpaints.com/blog/wp-content/uploads/2022/04/Office-room.png);
+    background-size: cover;
+    background-position: center;
+}
+.footer{
+    height: 90px;
+    background-color: rgb(51, 51, 51);
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+.fotCont{
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.box{
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.midBox{
+    border: 1px solid red;
+    display: flex;
+    height: 350px;
+    width: 250px;
+    background-color: white;
+} */
+.outer{
+    width: 100%;
+    height: auto;
+    min-height: 100vh;
+    background-image: url(https://images03.nicepage.com/c461c07a441a5d220e8feb1a/4ef3ec69cd5f5ef1951ae874/ddddmin.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.top{
+    background-color: rgb(21, 161, 154);
+    width: 100%;
+    height: 280px;
+}
+.boxOuter{
+    width: 100%;
+    height: auto;
+    margin-top: -140px;
+}
+.box{
+    height: 350px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+.inner{
+    width: 90%;
+    height: 100%;
+    background-color: white;
+    box-shadow: 5px 5px 10px black;
+}
+.innerImg{
+    height: 100px;
+    width: 100px;
+    margin: 20px auto 20px 20px;
+}
+#plan{
+    background-image: url(https://www.svgrepo.com/show/88900/planning.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#mana{
+    background-image: url(https://www.svgrepo.com/show/265136/settings-gear.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#mark{
+    background-image: url(https://www.svgrepo.com/show/301744/marketing-speaker.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#us{
+    background-image: url(https://www.svgrepo.com/show/505540/users-more.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h4{
+    margin-left: 20px;
+}
+p{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin: 20px;
+}
+.footer{
+    width: 100%;
+    height: 80px;
+    background-color: rgb(51, 51, 51);
+    margin-top: 500px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+a{
+    color: yellow;
+}
