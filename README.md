@@ -7,3 +7,4 @@
   * Bootstrap
   * Semantic UI
   * Tailwind css
+  * JQuery
